@@ -1,0 +1,26 @@
+
+
+.jumbotron{
+    background-color: orange;
+    background-image: url(../img/banner-image.jpg);
+    background-repeat: initial;
+    color: white;
+    font-style: italic;
+    
+}
+
+.card-img-top{
+    height: 200px;
+}
+
+.img-responsive{
+    height: 190px;
+}
+
+.container-fluid{
+    color: black;
+}
+
+.background-site{
+    background-image: url(../img/background-image.jpg);
+}
